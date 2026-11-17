@@ -24,6 +24,8 @@ tags:
 
 # 🏛️ GO2ABROAD Tax
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24298152.svg)](https://doi.org/10.5281/zenodo.24298152)
+
 **Real-Time Global Tax Calendar, Statutory Filing Deadlines (CIT/PIT/VAT/Payroll) & FYE Calculator across 100+ Jurisdictions**  
 🌐 **Live Service & Interactive Tax Calendar:** [https://tax.go2abroad.space](https://tax.go2abroad.space)
 
@@ -141,6 +143,8 @@ tags:
 @misc{go2abroad_tax,
   author       = {Cheung, Peter and {TRANSCEND DATA}},
   title        = {GO2ABROAD Tax: Real-Time Global Tax Calendar & Compliance Hub},
-  publisher    = {GO2ABROAD / Zenodo},
-  url          = {[https://tax.go2abroad.space](https://tax.go2abroad.space)}
+  year         = {2026},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.24298152},
+  url          = {https://doi.org/10.5281/zenodo.24298152}
 }
