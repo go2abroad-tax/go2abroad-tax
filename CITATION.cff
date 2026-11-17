@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference GO2ABROAD Tax in your research or software, please cite it using this metadata."
+title: "GO2ABROAD Tax: Real-Time Global Tax Calendar & Compliance Hub"
+authors:
+  - family-names: Cheung
+    given-names: Peter
+    affiliation: TRANSCEND DATA
+url: "https://tax.go2abroad.space"
+repository-code: "https://github.com/go2abroad-tax/go2abroad-tax"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.24298152"
+keywords:
+  - tax-calendar
+  - statutory-deadlines
+  - corporate-income-tax
+  - vat-gst
+  - cross-border-tax-compliance
